@@ -1,4 +1,6 @@
 client/.env
 server/.env
 client/.env-dev
+client/node_modules
 server/.env-dev
+server/node_modules
